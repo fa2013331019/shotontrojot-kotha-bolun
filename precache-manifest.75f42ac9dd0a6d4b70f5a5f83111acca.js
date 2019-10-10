@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c0e0fd6545c41bfdf846359269aefa9",
+    "revision": "4e4d7274cf3f4e25a1d8c0975b218994",
     "url": "/shotontrojot-kotha-bolun/index.html"
   },
   {
-    "revision": "ee5bee4b6132d635034f",
+    "revision": "f0144b08b04aacad12fa",
     "url": "/shotontrojot-kotha-bolun/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "9e6f0fe55464530c0e9b",
+    "revision": "262ff55372bf4d6f75b8",
     "url": "/shotontrojot-kotha-bolun/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "ee5bee4b6132d635034f",
-    "url": "/shotontrojot-kotha-bolun/static/js/2.c6e69832.chunk.js"
+    "revision": "f0144b08b04aacad12fa",
+    "url": "/shotontrojot-kotha-bolun/static/js/2.1432759e.chunk.js"
   },
   {
-    "revision": "9e6f0fe55464530c0e9b",
-    "url": "/shotontrojot-kotha-bolun/static/js/main.1a8a7f3d.chunk.js"
+    "revision": "262ff55372bf4d6f75b8",
+    "url": "/shotontrojot-kotha-bolun/static/js/main.1a079d54.chunk.js"
   },
   {
     "revision": "8323e0e4bb13fe3376ec",
